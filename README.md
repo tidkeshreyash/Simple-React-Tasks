@@ -1,2 +1,2 @@
 # Simple-React-Tasks
-In this task I connected API pf random photos in my react application with the help of axios.
+In this task, I seamlessly integrated the Random Photos API into my React application using Axios for a more refined connection.
